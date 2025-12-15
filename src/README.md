@@ -90,7 +90,7 @@ PROYECTO_INVENTARIO_BOTICA/
 ```bash
     #Ejemplo
      git add .
-     git commit -m "Subiendo rama Lizarzaburu"
+     git commit -m "Subiendo rama Flores"
      git push -u origin Flores/models
 
 ```
