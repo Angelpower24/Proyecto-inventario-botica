@@ -3,7 +3,7 @@ Sistema de Gestion de Inventario - Interfaz Principal
 Aplicacion interactiva para gestionar productos de Botica
 """
 
-from src.Mi_Proyecto.models.producto import Categoria, Producto
+from src.Mi_Proyecto.models.producto import Categoria
 from src.Mi_Proyecto.repositories.inventario import RepositorioMemoria, Inventario
 from src.Mi_Proyecto.services.reportes import GeneradorReportes
 from src.Mi_Proyecto.utils.validaciones import Validadores
